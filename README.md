@@ -2,6 +2,7 @@
 
 ## Zurb Foundation with Angular CLI
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
+
 Templates generated with [Foundation for Sites](https://github.com/foundation/foundation-sites) version 6.7.2.
 
 ## Development server
